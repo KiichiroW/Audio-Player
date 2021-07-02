@@ -1,0 +1,15 @@
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.ResolveComReference.cache
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.MainForm.resources
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+C:\Users\darka\source\repos\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
